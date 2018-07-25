@@ -1,16 +1,16 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Get to know Nicole!
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+## My name is Nicole
+I'm currently a business intelligence/data visualization consultant working in the DC area. I started this blog to chronicle my adventures to improve my skills in three popular software for data viz. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+#### A few interesting things about me:
 
-What else do you need?
+- I'm half Jamaican (don't quiz me on Patois though)
+- I'm an avid collector of world currency (I currently have paper/coins from 15 countries and counting)
+- I **loooooove** board games and card games
 
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Feel free to drop a line if you see something interesting (or confusing) on my blog. I'm happy to chat and learn from others!
