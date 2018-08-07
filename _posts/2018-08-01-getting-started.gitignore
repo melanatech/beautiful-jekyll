@@ -1,0 +1,36 @@
+---
+layout: post
+title: Getting Started
+subtitle: Let's jump to step 2
+image: /img/hello_world.jpeg
+tags: [software]
+---
+
+This post is actually skipping the first steps: downloading, registering, and installing the software. There are plenty of existing tutorials to truly get started from square one.
+
+- Like this one
+
+- And this one
+
+- And even this one
+
+
+My "getting started" is going to cover the ins and outs of loading different data sources into each software. Each platform approaches it slightly different, so let's take a look.
+
+
+## **TABLEAU**
+I have installed Tableau Desktop 2018.1. The start screen shows you several, but not all, methods of bringing in data into Tableau.
+
+
+## **POWER BI**
+I have installed Power BI Desktop version 2.59.5135.781 64-bit (June 2018). 
+
+
+## **QLIK SENSE**
+I have installed Qlik Sense Dekstop version June 2018. 
+
+
+## SUMMARY
+The first thing to note is that Tableau Desktop is the only one of the three that does not require an active internet connection. Tableau Public Desktop, Power BI and Qlik Sense all require you to sign in to their server before doing any work. Power BI and Tableau Public eventually let you work offline after signing in once.
+
+_Until next time...._

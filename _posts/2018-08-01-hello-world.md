@@ -13,7 +13,7 @@ I've been working in Tableau for the past few years (Desktop Qualified Associate
 #### This is one of my first visualizations that I posted to Tableau Public
 <iframe src="https://public.tableau.com/views/ParkingDataTest-NL/NewDash?:showVizHome=no&:embed=true" width="850" height="1000"></iframe>
 
-Each month I'm going to take a challenge from [Makeover Monday](www.makeovermonday.org), [Workout Wednesday](www.workoutwednesday.org), or [Data for a Cause](https://www.olgatsubiks.com/data-for-a-cause) and compare the ease or difficulty in recreating visualizations in Tableau, Power BI, and Qlik Sense. I know there are a lot of tutorials out there specific to one platform or the other, but I hadn't yet seen any combining tips and tricks for different platforms.
+Each month I'm going to take a challenge from [Makeover Monday](https://www.makeovermonday.co.uk/), [Workout Wednesday](http://www.workout-wednesday.com/), or [Data for a Cause](https://www.olgatsubiks.com/data-for-a-cause) and compare the ease or difficulty in recreating visualizations in Tableau, Power BI, and Qlik Sense. I know there are a lot of tutorials out there specific to one platform or the other, but I hadn't yet seen any combining tips and tricks for different platforms.
 
 This is going to be an interesting learning adventure for me, but I hope that it becomes useful for someone else as well.
 
